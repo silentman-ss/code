@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/2021_15_qytang_yangsuite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ansible" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/devnet_http/bottle_flask_requests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/devnet_http/devnet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/devnet_http/devnet_bs4_spider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/devnet_http/devnet_ccna_guestshell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/devnet_http/devnet_ccna_netconf_auto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/devnet_http/devnet_enhance_api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django/django-2021-8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django/django-21-4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django/django_homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/efk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nornir_homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/opensourcesoftware" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prometheus_snmp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/protocol" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_basic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/qyt_netdevops_cicd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/qytang-psql" vcs="Git" />
+  </component>
+</project>
